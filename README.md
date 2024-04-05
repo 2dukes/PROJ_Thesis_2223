@@ -4,6 +4,8 @@ Cyber ranges are critical nowadays when thinking of cybersecurity training. Prof
 
 This code base shows a cyber range framework suited for local and cloud deployments, where a trainee can build upon his skills and have realistic experience when facing real-world scenario threats, such as Log4j, Ransomware, and Active Directory attacks! This means we support both Linux and Windows-based scenarios! Using an approach heavily reliant on lightweight Docker containers and Infrastructure as Code tools like Ansible, we can deploy scenarios in a single machine but with the complexity of an enterprise-level network. Lastly, this framework also employs randomized scenarios, as on every new scenario execution, random IP addresses are assigned to the machines part of the network.
 
+An article concerning this project was published in the [Journal of Cybersecurity Education, Research & Practice](https://digitalcommons.kennesaw.edu/jcerp/vol2024/iss1/5/).
+
 ## **Network Architecture** 
 
 ![](./project/image/../images/example_arch.png)
